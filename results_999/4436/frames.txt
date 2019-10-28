@@ -1,0 +1,2 @@
+Frame: 2628 coordinates: 339,31,434,126 
+Frame: 3385 coordinates: 275,281,329,335 

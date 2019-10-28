@@ -1,6 +1,8 @@
 # Face-Classification
 Face classification python script on videos
 
+Input: Video
+Output: all the faces detected represented as face image + list of frames appear and his coordinations. 
 
 Usage:
 ```

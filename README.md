@@ -20,3 +20,5 @@ python facetector.py -l VideoPath
 
 ```
 
+After proccessing the result should be named "result_ID", few examples added.
+

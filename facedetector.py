@@ -2,9 +2,6 @@
    Face classification script
    Usage:
           python facedetector.py -l VideoPATH
-
-
-   Made by Aviv Harazi
 """
 
 import cv2
